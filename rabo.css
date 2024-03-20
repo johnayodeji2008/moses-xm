@@ -1,0 +1,166 @@
+.rabohead{
+    color: #FFD700;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto;
+    margin-top: 190px;
+}
+
+.rabomotto{
+    color: #FFD700;
+    font-family: cursive;
+    font-size: 25px;
+    text-align: center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.navbar a:hover{
+    color: #FFD700;
+}
+
+.mentor{
+    border: 20px;
+    padding: 10px;
+    background-color: #FFD700;
+    border-radius: 20px;
+    color: #000080;
+}
+
+.signals{
+    border: 20px;
+    padding: 10px;
+    background-color: #FFD700;
+    border-radius: 20px;
+    color: #000080;
+}
+
+.contact{
+    border: 20px;
+    padding: 10px;
+    background-color: #FFD700;
+    border-radius: 20px;
+    color: #000080;
+}
+
+.et{
+    width: 50px;
+    height: 50px;
+    border-radius: 37px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.navbar{
+    animation: slidein 1s
+    ease-out;
+}
+
+.myvideo{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;    
+}
+
+.signalpage{
+    background-color: #FFD700;
+}
+
+.telegram{
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+.telegramsignal{
+    font-size: 50px;
+    border: 10px;
+    border-radius: 20px;
+    background-color: #000080;
+    text-align: center;
+    padding: 15px;
+}
+
+.signalnav{
+    text-decoration: none;
+    color: #FFD700;
+}
+
+.exness{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.brokers{
+    display: flex;
+    justify-content: space-around;
+    color: #FFD700;
+}
+
+.exbroker{
+    border: 10px;
+    padding: 20px;
+    background-color: #000080;
+    border-radius: 15px;
+    font-size: 40px;
+}
+
+.bybroker{
+    border: 10px;
+    padding: 20px;
+    background-color: #000080;
+    border-radius: 15px;
+    font-size: 40px;
+}
+
+.exn{
+    text-decoration: none;
+    color: #FFD700;
+}
+
+.coming{
+    font-size: 60px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.ment{
+    background-color: #000080;
+    color: #FFD700;
+}
+
+.dev{
+    font-size: 30px;
+    color: #FFD700;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+.cont{
+    background-color: #FFD700;
+}
+
+.app{
+    text-decoration: none;
+}
+
+.what{
+    background-color: #000080;
+    border: 20px;
+    padding: 20px;
+    color: #FFD700;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 100px;
+}
